@@ -7,3 +7,4 @@ This course introduces and explains the idea behind every Deep Learning method. 
 * Learn different deep networks and deep learning platforms
 * Learn different deep learning libraries
 
+## Module 1: Introduction to Deep-Learning
