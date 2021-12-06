@@ -4,4 +4,6 @@ This course introduces and explains the idea behind every Deep Learning method.
 ## Objectives
 * Introduction to deep learning
 * Why deep learning is the solution to many recent problems
-* Learn different deep learning platforms and networks 
+* Learn different deep networks and deep learning platforms
+* Learn different deep learning libraries
+
