@@ -1,5 +1,5 @@
 # Deep Learning Fundamentals (ML0115EN)
-This course introduces and explains the idea behind every Deep Learning method.
+This course introduces and explains the idea behind every Deep Learning method. The first module now introduces deep learning. The second and the third module discuss the most common deep learning models. The fourth module discusses some of the common deep learning platforms and libraries that are available. Module 4 discusses TensorFlow.
 
 ## Objectives
 * Introduction to deep learning
